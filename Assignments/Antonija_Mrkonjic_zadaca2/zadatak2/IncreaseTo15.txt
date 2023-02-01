@@ -1,0 +1,11 @@
+Name 	Surname 	Age 	Experience 	Salary 	Number
+Victoria	Cline	21	1	19715		616-3926
+Odette	Jones	20	20	10787		763-3812
+Darrel	Hartman	20	19	7667		915-3108
+Stacy	Delgado	19	24	12555		127-4482
+Brianna	Fitzgerald	19	22	8257		1-616-825-2892
+Kaitlin	Pate	19	15	16374		1-576-716-2813
+Katell	Forbes	19	7	9170		1-879-975-2321
+Kiayada	Glenn	19	1	13935		432-1877
+Katell	Conner	18	29	16787		1-451-103-1609
+Darryl	Brennan	18	13	11574		1-379-667-1472
